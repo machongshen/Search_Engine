@@ -1,4 +1,6 @@
 queryFilePath=./src/QueryAnd.qry
 indexPath=/Users/machongshen/Desktop/11-642/index
 trecEvalOutputPath=Sample.teIn
-retrievalAlgorithm=RankedBoolean
+retrievalAlgorithm=Indri
+Indri:mu=6000
+Indri:lambda=0.4
